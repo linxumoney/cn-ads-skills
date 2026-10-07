@@ -298,3 +298,8 @@ MIT
 
 📺 **订阅 YouTube** → [林序聊AI](https://www.youtube.com/@LinXuMoney)  
 视频讲解 AI 工具如何用在真实业务中
+
+## 商业授权
+
+个人学习、研究、测试和非商业使用可以。商业使用请先联系 **linxu.money@gmail.com** 获得授权，详见 [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md)。
+
